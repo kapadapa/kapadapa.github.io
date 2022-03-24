@@ -1,0 +1,14 @@
+.img-10{
+    max-width: 20%;
+}
+
+.padding-top-160{
+    padding-top: 160px;
+}
+
+.center-cropped {
+    object-fit: cover;
+    object-position: center;
+    height: 25rem;
+    width: 25rem;
+}
