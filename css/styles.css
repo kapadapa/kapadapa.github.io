@@ -3742,7 +3742,7 @@ textarea.form-control-lg {
     color: #212529;
     text-align: left;
     list-style: none;
-    background-color: rgba(255, 255, 128, 0);
+    background-color: #fff;
     background-clip: padding-box;
     border-style: hidden;
     border-radius: 0.5rem;
