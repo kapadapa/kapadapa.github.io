@@ -20,6 +20,12 @@
     }
 }
 
+@media (max-width: 992px) {
+    .modal-dialog p {
+        font-size: 0.7rem;
+    }
+}
+
 button:focus{
     outline:0 !important;
     box-shadow:none !important;
